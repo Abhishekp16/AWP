@@ -1,0 +1,63 @@
+ body{
+     background-color:rgb(204, 201, 201);
+    
+     justify-content: center;
+     align-items: center;
+    
+    }
+ 
+   h2{
+     color: white;
+     justify-content: center;
+     text-align: center;
+     align-items: center;
+     margin: 20px;
+ }
+#uname{
+    color: white;
+    font-size:x-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+
+}
+#pass{
+    color: white;
+    font-size:x-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+#login{
+    
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+#checkboxes{
+    color: white;
+    font-size:larger;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.Login-form{
+    box-shadow: 0 10px 20px black ;
+     position: relative;
+    background-image: url(stars.jpg);
+    height: 400px;
+     width: 600px;
+    align-items: center;
+  margin:10% auto;
+}
+
+label{
+    text-align:left;
+}
