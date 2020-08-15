@@ -1,0 +1,47 @@
+h1{ 
+
+    background-color:rgba(128, 128, 128, 0.795);
+    color:white;
+    font-stretch: ultra-expanded;
+}
+pre{
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h4{
+    font-size: 30px;
+color:rgb(90, 66, 66);
+text-align: center;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+
+}
+table{
+    width: 35%;
+    height:35%;
+    text-align: center;
+}
+td{
+    font-style: italic;
+    font-size: 20px;
+}
+
+th{
+    font-size: 40px;
+}
+h2 { background-color: brown;
+    font-style: oblique;
+    font-size: 35px;
+    text-align: center;
+}
+
+ol {font-style: unset;
+    font-size: 20px;
+
+}
